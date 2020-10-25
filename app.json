@@ -9,10 +9,11 @@
             "version": "12"
          },
          "plan": "heroku-postgresql"
-     "name" : "AishwaryaRaibot",
+     "name"{"AishwaryaRaibot",
         "repository": "https://github.com/sakhaavvaavaj93/AishwaryaRaibot.git",
         "success_url": "https://telegram.AishwaryaRaibot",
         "logo": "https://telegra.ph/file/8efbd5f29ecf8ede76ad0.jpg" }
+}
    ],
    "description": "Modular Telegram bot for managing your groups with a few extras features.",
    "env": {
